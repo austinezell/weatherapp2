@@ -8,3 +8,21 @@
   right: 0px;
   bottom: 0px;
 }
+
+.forecasts {
+  text-align: center;
+  margin: 0 auto;
+}
+
+body {
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.input {
+  background-color: skyblue;
+}
+
+.current {
+  background-color: lightgrey;
+}
