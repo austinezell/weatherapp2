@@ -21,12 +21,12 @@ body {
 
 .input {
   background-color: skyblue;
-  border-radius: 10%
+  border-radius: 25px;
 }
 
 .current {
   background-color: lightgrey;
-  border-radius: 10%
+  border-radius: 25px;
 }
 
 .githublink {
